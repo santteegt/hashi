@@ -971,16 +971,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@gnosis.pm/zodiac@npm:^3.3.2":
-  version: 3.3.2
-  resolution: "@gnosis.pm/zodiac@npm:3.3.2"
+"@gnosis.pm/zodiac@npm:3.3.10":
+  version: 3.3.10
+  resolution: "@gnosis.pm/zodiac@npm:3.3.10"
   dependencies:
     "@gnosis.pm/mock-contract": ^4.0.0
     "@gnosis.pm/safe-contracts": 1.3.0
     "@openzeppelin/contracts": ^4.8.1
     "@openzeppelin/contracts-upgradeable": ^4.8.1
     ethers: ^5.7.1
-  checksum: 796258749d673b552db0cf231ba3968acd2dfe6dfce759f36e91503c6cf29d26bd87c31f883f1ffc6879272ec041c8a7413756364615072339df562c4f90ac31
+  checksum: 0869dc6539b47a7f351b301e3f919946782f95f57335ae0c8ede1045c999d4758c6e8d4256a8fffbd5650f707dee247dff4cfb82b4d42b0517c7041d01501e9a
   languageName: node
   linkType: hard
 
@@ -998,7 +998,7 @@ __metadata:
     "@ethersproject/bignumber": ^5.7.0
     "@ethersproject/bytes": ^5.7.0
     "@ethersproject/providers": ^5.7.2
-    "@gnosis.pm/zodiac": ^3.3.2
+    "@gnosis.pm/zodiac": 3.3.10
     "@hyperlane-xyz/core": ^3.1.10
     "@nomicfoundation/hardhat-chai-matchers": ^1.0.4
     "@nomicfoundation/hardhat-network-helpers": ^1.0.8
@@ -1644,9 +1644,9 @@ __metadata:
   linkType: hard
 
 "@openzeppelin/contracts@npm:^4.8.1":
-  version: 4.8.3
-  resolution: "@openzeppelin/contracts@npm:4.8.3"
-  checksum: aea130d38d46840c5cbe3adbaa9a7ac645e4bd66ad3f3baf2fa78588c408d1a686170b3408c9e2e5e05530fba22ecdc00d7efb6b27852a8b29f91accbc0af255
+  version: 4.9.5
+  resolution: "@openzeppelin/contracts@npm:4.9.5"
+  checksum: 2cddeb08c006a8f99c5cc40cc80aecb449fd941cd1a92ebda315d77f48c4b4d487798a1254bffbc3ec811b390365d14665e92dbb2dd8f45aacef479d69d94574
   languageName: node
   linkType: hard
 
